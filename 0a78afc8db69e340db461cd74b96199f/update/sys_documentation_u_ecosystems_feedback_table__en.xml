@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Ecosystems Feedback Table" language="en" table="u_ecosystems_feedback_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Ecosystems Feedback Table</label>
+            <language>en</language>
+            <name>u_ecosystems_feedback_table</name>
+            <plural>Ecosystems Feedback Tables</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>andrew.irwin@accenture.com</sys_created_by>
+            <sys_created_on>2018-10-30 01:06:01</sys_created_on>
+            <sys_id>da78270cdb69e340db461cd74b9619cf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Ecosystems Feedback Table</sys_name>
+            <sys_package display_value="Ecosystems Feedback" source="0a78afc8db69e340db461cd74b96199f">0a78afc8db69e340db461cd74b96199f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Ecosystems Feedback">0a78afc8db69e340db461cd74b96199f</sys_scope>
+            <sys_update_name>sys_documentation_u_ecosystems_feedback_table__en</sys_update_name>
+            <sys_updated_by>andrew.irwin@accenture.com</sys_updated_by>
+            <sys_updated_on>2018-10-30 01:06:01</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

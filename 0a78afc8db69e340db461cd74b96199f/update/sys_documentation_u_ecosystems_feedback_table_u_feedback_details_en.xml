@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_feedback_details" label="Feedback Details" language="en" table="u_ecosystems_feedback_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_feedback_details</element>
+            <help>Please provide as many details as possible related to your feedback...</help>
+            <hint>Please provide as many details as possible related to your feedback...</hint>
+            <label>Feedback Details</label>
+            <language>en</language>
+            <name>u_ecosystems_feedback_table</name>
+            <plural>Feedback Details</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>andrew.irwin@accenture.com</sys_created_by>
+            <sys_created_on>2018-10-30 01:13:11</sys_created_on>
+            <sys_id>db1a2b4cdb69e340db461cd74b961914</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>Feedback Details</sys_name>
+            <sys_package display_value="Ecosystems Feedback" source="0a78afc8db69e340db461cd74b96199f">0a78afc8db69e340db461cd74b96199f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Ecosystems Feedback">0a78afc8db69e340db461cd74b96199f</sys_scope>
+            <sys_update_name>sys_documentation_u_ecosystems_feedback_table_u_feedback_details_en</sys_update_name>
+            <sys_updated_by>andrew.irwin@accenture.com</sys_updated_by>
+            <sys_updated_on>2018-10-30 01:54:01</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

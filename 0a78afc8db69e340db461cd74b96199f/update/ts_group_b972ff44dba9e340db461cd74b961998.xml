@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ts_group">
+    <ts_group action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description/>
+        <group/>
+        <name>Feedback</name>
+        <order>100</order>
+        <roles>snc_internal</roles>
+        <searched>true</searched>
+        <sys_class_name>ts_group</sys_class_name>
+        <sys_created_by>andrew.irwin@accenture.com</sys_created_by>
+        <sys_created_on>2018-10-30 01:50:18</sys_created_on>
+        <sys_id>b972ff44dba9e340db461cd74b961998</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Feedback</sys_name>
+        <sys_package display_value="Ecosystems Feedback" source="0a78afc8db69e340db461cd74b96199f">0a78afc8db69e340db461cd74b96199f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Ecosystems Feedback">0a78afc8db69e340db461cd74b96199f</sys_scope>
+        <sys_update_name>ts_group_b972ff44dba9e340db461cd74b961998</sys_update_name>
+        <sys_updated_by>andrew.irwin@accenture.com</sys_updated_by>
+        <sys_updated_on>2018-10-30 01:50:57</sys_updated_on>
+        <tables>Ecosystems Feedback Tables</tables>
+    </ts_group>
+</record_update>
