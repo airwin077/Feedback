@@ -1,0 +1,1093 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="19df6e95dba9ab40bdb98edf4b9619a0" sys_domain="global" table="u_ecosystems_feedback_table" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>0</position>
+            <sys_created_by>jeffrey.yauger@accenture.com</sys_created_by>
+            <sys_created_on>2018-11-02 18:10:58</sys_created_on>
+            <sys_id>9ddf6e95dba9ab40bdb98edf4b9619a1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_ecosystems_feedback_table" sys_domain="global" view="Default view">19df6e95dba9ab40bdb98edf4b9619a0</sys_ui_section>
+            <sys_updated_by>jeffrey.yauger@accenture.com</sys_updated_by>
+            <sys_updated_on>2018-11-02 18:10:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>parent</element>
+            <position>1</position>
+            <sys_created_by>jeffrey.yauger@accenture.com</sys_created_by>
+            <sys_created_on>2018-11-02 18:10:58</sys_created_on>
+            <sys_id>99df6e95dba9ab40bdb98edf4b9619a2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_ecosystems_feedback_table" sys_domain="global" view="Default view">19df6e95dba9ab40bdb98edf4b9619a0</sys_ui_section>
+            <sys_updated_by>jeffrey.yauger@accenture.com</sys_updated_by>
+            <sys_updated_on>2018-11-02 18:10:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assignment_group</element>
+            <position>2</position>
+            <sys_created_by>jeffrey.yauger@accenture.com</sys_created_by>
+            <sys_created_on>2018-11-02 18:10:58</sys_created_on>
+            <sys_id>1ddf6e95dba9ab40bdb98edf4b9619a2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_ecosystems_feedback_table" sys_domain="global" view="Default view">19df6e95dba9ab40bdb98edf4b9619a0</sys_ui_section>
+            <sys_updated_by>jeffrey.yauger@accenture.com</sys_updated_by>
+            <sys_updated_on>2018-11-02 18:10:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_to</element>
+            <position>3</position>
+            <sys_created_by>jeffrey.yauger@accenture.com</sys_created_by>
+            <sys_created_on>2018-11-02 18:10:58</sys_created_on>
+            <sys_id>9ddf6e95dba9ab40bdb98edf4b9619a2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_ecosystems_feedback_table" sys_domain="global" view="Default view">19df6e95dba9ab40bdb98edf4b9619a0</sys_ui_section>
+            <sys_updated_by>jeffrey.yauger@accenture.com</sys_updated_by>
+            <sys_updated_on>2018-11-02 18:10:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>4</position>
+            <sys_created_by>jeffrey.yauger@accenture.com</sys_created_by>
+            <sys_created_on>2018-11-02 18:10:58</sys_created_on>
+            <sys_id>11df6e95dba9ab40bdb98edf4b9619a3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_ecosystems_feedback_table" sys_domain="global" view="Default view">19df6e95dba9ab40bdb98edf4b9619a0</sys_ui_section>
+            <sys_updated_by>jeffrey.yauger@accenture.com</sys_updated_by>
+            <sys_updated_on>2018-11-02 18:10:58</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>5</position>
+            <sys_created_by>jeffrey.yauger@accenture.com</sys_created_by>
+            <sys_created_on>2018-11-02 18:10:58</sys_created_on>
+            <sys_id>91df6e95dba9ab40bdb98edf4b9619a3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_ecosystems_feedback_table" sys_domain="global" view="Default view">19df6e95dba9ab40bdb98edf4b9619a0</sys_ui_section>
+            <sys_updated_by>jeffrey.yauger@accenture.com</sys_updated_by>
+            <sys_updated_on>2018-11-02 18:10:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>priority</element>
+            <position>6</position>
+            <sys_created_by>jeffrey.yauger@accenture.com</sys_created_by>
+            <sys_created_on>2018-11-02 18:10:58</sys_created_on>
+            <sys_id>15df6e95dba9ab40bdb98edf4b9619a3</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_ecosystems_feedback_table" sys_domain="global" view="Default view">19df6e95dba9ab40bdb98edf4b9619a0</sys_ui_section>
+            <sys_updated_by>jeffrey.yauger@accenture.com</sys_updated_by>
+            <sys_updated_on>2018-11-02 18:10:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cmdb_ci</element>
+            <position>7</position>
+            <sys_created_by>jeffrey.yauger@accenture.com</sys_created_by>
+            <sys_created_on>2018-11-02 18:10:58</sys_created_on>
+            <sys_id>99dfee95dba9ab40bdb98edf4b9619c6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_ecosystems_feedback_table" sys_domain="global" view="Default view">19df6e95dba9ab40bdb98edf4b9619a0</sys_ui_section>
+            <sys_updated_by>jeffrey.yauger@accenture.com</sys_updated_by>
+            <sys_updated_on>2018-11-02 18:10:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_unlock_record</element>
+            <position>8</position>
+            <sys_created_by>jeffrey.yauger@accenture.com</sys_created_by>
+            <sys_created_on>2018-11-02 18:10:58</sys_created_on>
+            <sys_id>1ddfee95dba9ab40bdb98edf4b9619c6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_ecosystems_feedback_table" sys_domain="global" view="Default view">19df6e95dba9ab40bdb98edf4b9619a0</sys_ui_section>
+            <sys_updated_by>jeffrey.yauger@accenture.com</sys_updated_by>
+            <sys_updated_on>2018-11-02 18:10:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>9</position>
+            <sys_created_by>jeffrey.yauger@accenture.com</sys_created_by>
+            <sys_created_on>2018-11-02 18:10:58</sys_created_on>
+            <sys_id>9ddfee95dba9ab40bdb98edf4b9619c6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_ecosystems_feedback_table" sys_domain="global" view="Default view">19df6e95dba9ab40bdb98edf4b9619a0</sys_ui_section>
+            <sys_updated_by>jeffrey.yauger@accenture.com</sys_updated_by>
+            <sys_updated_on>2018-11-02 18:10:58</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>10</position>
+            <sys_created_by>jeffrey.yauger@accenture.com</sys_created_by>
+            <sys_created_on>2018-11-02 18:10:58</sys_created_on>
+            <sys_id>11dfee95dba9ab40bdb98edf4b9619c7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_ecosystems_feedback_table" sys_domain="global" view="Default view">19df6e95dba9ab40bdb98edf4b9619a0</sys_ui_section>
+            <sys_updated_by>jeffrey.yauger@accenture.com</sys_updated_by>
+            <sys_updated_on>2018-11-02 18:10:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>11</position>
+            <sys_created_by>jeffrey.yauger@accenture.com</sys_created_by>
+            <sys_created_on>2018-11-02 18:10:58</sys_created_on>
+            <sys_id>91dfee95dba9ab40bdb98edf4b9619c7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_ecosystems_feedback_table" sys_domain="global" view="Default view">19df6e95dba9ab40bdb98edf4b9619a0</sys_ui_section>
+            <sys_updated_by>jeffrey.yauger@accenture.com</sys_updated_by>
+            <sys_updated_on>2018-11-02 18:10:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>comments_and_work_notes</element>
+            <position>12</position>
+            <sys_created_by>jeffrey.yauger@accenture.com</sys_created_by>
+            <sys_created_on>2018-11-02 18:10:58</sys_created_on>
+            <sys_id>15dfee95dba9ab40bdb98edf4b9619c7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_ecosystems_feedback_table" sys_domain="global" view="Default view">19df6e95dba9ab40bdb98edf4b9619a0</sys_ui_section>
+            <sys_updated_by>jeffrey.yauger@accenture.com</sys_updated_by>
+            <sys_updated_on>2018-11-02 18:10:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_notes</element>
+            <position>13</position>
+            <sys_created_by>jeffrey.yauger@accenture.com</sys_created_by>
+            <sys_created_on>2018-11-02 18:10:58</sys_created_on>
+            <sys_id>95dfee95dba9ab40bdb98edf4b9619c7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_ecosystems_feedback_table" sys_domain="global" view="Default view">19df6e95dba9ab40bdb98edf4b9619a0</sys_ui_section>
+            <sys_updated_by>jeffrey.yauger@accenture.com</sys_updated_by>
+            <sys_updated_on>2018-11-02 18:10:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_quote_notes</element>
+            <position>14</position>
+            <sys_created_by>jeffrey.yauger@accenture.com</sys_created_by>
+            <sys_created_on>2018-11-02 18:10:58</sys_created_on>
+            <sys_id>19dfee95dba9ab40bdb98edf4b9619c7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_ecosystems_feedback_table" sys_domain="global" view="Default view">19df6e95dba9ab40bdb98edf4b9619a0</sys_ui_section>
+            <sys_updated_by>jeffrey.yauger@accenture.com</sys_updated_by>
+            <sys_updated_on>2018-11-02 18:10:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_request_owner_group_v2</element>
+            <position>15</position>
+            <sys_created_by>jeffrey.yauger@accenture.com</sys_created_by>
+            <sys_created_on>2018-11-02 18:10:58</sys_created_on>
+            <sys_id>99dfee95dba9ab40bdb98edf4b9619c7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_ecosystems_feedback_table" sys_domain="global" view="Default view">19df6e95dba9ab40bdb98edf4b9619a0</sys_ui_section>
+            <sys_updated_by>jeffrey.yauger@accenture.com</sys_updated_by>
+            <sys_updated_on>2018-11-02 18:10:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_request_owner_v2</element>
+            <position>16</position>
+            <sys_created_by>jeffrey.yauger@accenture.com</sys_created_by>
+            <sys_created_on>2018-11-02 18:10:58</sys_created_on>
+            <sys_id>1ddfee95dba9ab40bdb98edf4b9619c7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_ecosystems_feedback_table" sys_domain="global" view="Default view">19df6e95dba9ab40bdb98edf4b9619a0</sys_ui_section>
+            <sys_updated_by>jeffrey.yauger@accenture.com</sys_updated_by>
+            <sys_updated_on>2018-11-02 18:10:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_total_accenture_cost_v2</element>
+            <position>17</position>
+            <sys_created_by>jeffrey.yauger@accenture.com</sys_created_by>
+            <sys_created_on>2018-11-02 18:10:58</sys_created_on>
+            <sys_id>9ddfee95dba9ab40bdb98edf4b9619c7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_ecosystems_feedback_table" sys_domain="global" view="Default view">19df6e95dba9ab40bdb98edf4b9619a0</sys_ui_section>
+            <sys_updated_by>jeffrey.yauger@accenture.com</sys_updated_by>
+            <sys_updated_on>2018-11-02 18:10:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_total_client_cost_v2</element>
+            <position>18</position>
+            <sys_created_by>jeffrey.yauger@accenture.com</sys_created_by>
+            <sys_created_on>2018-11-02 18:10:58</sys_created_on>
+            <sys_id>11dfee95dba9ab40bdb98edf4b9619c8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_ecosystems_feedback_table" sys_domain="global" view="Default view">19df6e95dba9ab40bdb98edf4b9619a0</sys_ui_section>
+            <sys_updated_by>jeffrey.yauger@accenture.com</sys_updated_by>
+            <sys_updated_on>2018-11-02 18:10:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_list_price_v3</element>
+            <position>19</position>
+            <sys_created_by>jeffrey.yauger@accenture.com</sys_created_by>
+            <sys_created_on>2018-11-02 18:10:58</sys_created_on>
+            <sys_id>91dfee95dba9ab40bdb98edf4b9619c8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_ecosystems_feedback_table" sys_domain="global" view="Default view">19df6e95dba9ab40bdb98edf4b9619a0</sys_ui_section>
+            <sys_updated_by>jeffrey.yauger@accenture.com</sys_updated_by>
+            <sys_updated_on>2018-11-02 18:10:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_total_accenture_cost_v3</element>
+            <position>20</position>
+            <sys_created_by>jeffrey.yauger@accenture.com</sys_created_by>
+            <sys_created_on>2018-11-02 18:10:58</sys_created_on>
+            <sys_id>15dfee95dba9ab40bdb98edf4b9619c8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_ecosystems_feedback_table" sys_domain="global" view="Default view">19df6e95dba9ab40bdb98edf4b9619a0</sys_ui_section>
+            <sys_updated_by>jeffrey.yauger@accenture.com</sys_updated_by>
+            <sys_updated_on>2018-11-02 18:10:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_total_client_cost_v3</element>
+            <position>21</position>
+            <sys_created_by>jeffrey.yauger@accenture.com</sys_created_by>
+            <sys_created_on>2018-11-02 18:10:58</sys_created_on>
+            <sys_id>95dfee95dba9ab40bdb98edf4b9619c8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_ecosystems_feedback_table" sys_domain="global" view="Default view">19df6e95dba9ab40bdb98edf4b9619a0</sys_ui_section>
+            <sys_updated_by>jeffrey.yauger@accenture.com</sys_updated_by>
+            <sys_updated_on>2018-11-02 18:10:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_gross_margin_v3</element>
+            <position>22</position>
+            <sys_created_by>jeffrey.yauger@accenture.com</sys_created_by>
+            <sys_created_on>2018-11-02 18:10:58</sys_created_on>
+            <sys_id>19dfee95dba9ab40bdb98edf4b9619c8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_ecosystems_feedback_table" sys_domain="global" view="Default view">19df6e95dba9ab40bdb98edf4b9619a0</sys_ui_section>
+            <sys_updated_by>jeffrey.yauger@accenture.com</sys_updated_by>
+            <sys_updated_on>2018-11-02 18:10:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_net_margin_v3</element>
+            <position>23</position>
+            <sys_created_by>jeffrey.yauger@accenture.com</sys_created_by>
+            <sys_created_on>2018-11-02 18:10:58</sys_created_on>
+            <sys_id>99dfee95dba9ab40bdb98edf4b9619c8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_ecosystems_feedback_table" sys_domain="global" view="Default view">19df6e95dba9ab40bdb98edf4b9619a0</sys_ui_section>
+            <sys_updated_by>jeffrey.yauger@accenture.com</sys_updated_by>
+            <sys_updated_on>2018-11-02 18:10:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_margin_v3</element>
+            <position>24</position>
+            <sys_created_by>jeffrey.yauger@accenture.com</sys_created_by>
+            <sys_created_on>2018-11-02 18:10:58</sys_created_on>
+            <sys_id>1ddfee95dba9ab40bdb98edf4b9619c8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_ecosystems_feedback_table" sys_domain="global" view="Default view">19df6e95dba9ab40bdb98edf4b9619a0</sys_ui_section>
+            <sys_updated_by>jeffrey.yauger@accenture.com</sys_updated_by>
+            <sys_updated_on>2018-11-02 18:10:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_generate_p104_details</element>
+            <position>25</position>
+            <sys_created_by>jeffrey.yauger@accenture.com</sys_created_by>
+            <sys_created_on>2018-11-02 18:10:58</sys_created_on>
+            <sys_id>9ddfee95dba9ab40bdb98edf4b9619c8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_ecosystems_feedback_table" sys_domain="global" view="Default view">19df6e95dba9ab40bdb98edf4b9619a0</sys_ui_section>
+            <sys_updated_by>jeffrey.yauger@accenture.com</sys_updated_by>
+            <sys_updated_on>2018-11-02 18:10:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_client_discount_v2</element>
+            <position>26</position>
+            <sys_created_by>jeffrey.yauger@accenture.com</sys_created_by>
+            <sys_created_on>2018-11-02 18:10:58</sys_created_on>
+            <sys_id>11dfee95dba9ab40bdb98edf4b9619c9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_ecosystems_feedback_table" sys_domain="global" view="Default view">19df6e95dba9ab40bdb98edf4b9619a0</sys_ui_section>
+            <sys_updated_by>jeffrey.yauger@accenture.com</sys_updated_by>
+            <sys_updated_on>2018-11-02 18:10:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_client_discount_percentage_v2</element>
+            <position>27</position>
+            <sys_created_by>jeffrey.yauger@accenture.com</sys_created_by>
+            <sys_created_on>2018-11-02 18:10:58</sys_created_on>
+            <sys_id>91dfee95dba9ab40bdb98edf4b9619c9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_ecosystems_feedback_table" sys_domain="global" view="Default view">19df6e95dba9ab40bdb98edf4b9619a0</sys_ui_section>
+            <sys_updated_by>jeffrey.yauger@accenture.com</sys_updated_by>
+            <sys_updated_on>2018-11-02 18:10:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_client_discount_v3</element>
+            <position>28</position>
+            <sys_created_by>jeffrey.yauger@accenture.com</sys_created_by>
+            <sys_created_on>2018-11-02 18:10:58</sys_created_on>
+            <sys_id>15dfee95dba9ab40bdb98edf4b9619c9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_ecosystems_feedback_table" sys_domain="global" view="Default view">19df6e95dba9ab40bdb98edf4b9619a0</sys_ui_section>
+            <sys_updated_by>jeffrey.yauger@accenture.com</sys_updated_by>
+            <sys_updated_on>2018-11-02 18:10:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_accenture_sso_v3</element>
+            <position>29</position>
+            <sys_created_by>jeffrey.yauger@accenture.com</sys_created_by>
+            <sys_created_on>2018-11-02 18:10:58</sys_created_on>
+            <sys_id>95dfee95dba9ab40bdb98edf4b9619c9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_ecosystems_feedback_table" sys_domain="global" view="Default view">19df6e95dba9ab40bdb98edf4b9619a0</sys_ui_section>
+            <sys_updated_by>jeffrey.yauger@accenture.com</sys_updated_by>
+            <sys_updated_on>2018-11-02 18:10:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_accenture_cost_v3</element>
+            <position>30</position>
+            <sys_created_by>jeffrey.yauger@accenture.com</sys_created_by>
+            <sys_created_on>2018-11-02 18:10:58</sys_created_on>
+            <sys_id>19dfee95dba9ab40bdb98edf4b9619c9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_ecosystems_feedback_table" sys_domain="global" view="Default view">19df6e95dba9ab40bdb98edf4b9619a0</sys_ui_section>
+            <sys_updated_by>jeffrey.yauger@accenture.com</sys_updated_by>
+            <sys_updated_on>2018-11-02 18:10:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_vendor_quote_id_v3</element>
+            <position>31</position>
+            <sys_created_by>jeffrey.yauger@accenture.com</sys_created_by>
+            <sys_created_on>2018-11-02 18:10:58</sys_created_on>
+            <sys_id>99dfee95dba9ab40bdb98edf4b9619c9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_ecosystems_feedback_table" sys_domain="global" view="Default view">19df6e95dba9ab40bdb98edf4b9619a0</sys_ui_section>
+            <sys_updated_by>jeffrey.yauger@accenture.com</sys_updated_by>
+            <sys_updated_on>2018-11-02 18:10:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_vendor_order_v3</element>
+            <position>32</position>
+            <sys_created_by>jeffrey.yauger@accenture.com</sys_created_by>
+            <sys_created_on>2018-11-02 18:10:58</sys_created_on>
+            <sys_id>1ddfee95dba9ab40bdb98edf4b9619c9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_ecosystems_feedback_table" sys_domain="global" view="Default view">19df6e95dba9ab40bdb98edf4b9619a0</sys_ui_section>
+            <sys_updated_by>jeffrey.yauger@accenture.com</sys_updated_by>
+            <sys_updated_on>2018-11-02 18:10:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_client_po_v3</element>
+            <position>33</position>
+            <sys_created_by>jeffrey.yauger@accenture.com</sys_created_by>
+            <sys_created_on>2018-11-02 18:10:58</sys_created_on>
+            <sys_id>9ddfee95dba9ab40bdb98edf4b9619c9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_ecosystems_feedback_table" sys_domain="global" view="Default view">19df6e95dba9ab40bdb98edf4b9619a0</sys_ui_section>
+            <sys_updated_by>jeffrey.yauger@accenture.com</sys_updated_by>
+            <sys_updated_on>2018-11-02 18:10:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_accenture_po_v3</element>
+            <position>34</position>
+            <sys_created_by>jeffrey.yauger@accenture.com</sys_created_by>
+            <sys_created_on>2018-11-02 18:10:58</sys_created_on>
+            <sys_id>11dfee95dba9ab40bdb98edf4b9619ca</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_ecosystems_feedback_table" sys_domain="global" view="Default view">19df6e95dba9ab40bdb98edf4b9619a0</sys_ui_section>
+            <sys_updated_by>jeffrey.yauger@accenture.com</sys_updated_by>
+            <sys_updated_on>2018-11-02 18:10:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_client_so_cost_v3</element>
+            <position>35</position>
+            <sys_created_by>jeffrey.yauger@accenture.com</sys_created_by>
+            <sys_created_on>2018-11-02 18:10:58</sys_created_on>
+            <sys_id>91dfee95dba9ab40bdb98edf4b9619ca</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_ecosystems_feedback_table" sys_domain="global" view="Default view">19df6e95dba9ab40bdb98edf4b9619a0</sys_ui_section>
+            <sys_updated_by>jeffrey.yauger@accenture.com</sys_updated_by>
+            <sys_updated_on>2018-11-02 18:10:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_gabs_id_v3</element>
+            <position>36</position>
+            <sys_created_by>jeffrey.yauger@accenture.com</sys_created_by>
+            <sys_created_on>2018-11-02 18:10:58</sys_created_on>
+            <sys_id>15dfee95dba9ab40bdb98edf4b9619ca</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_ecosystems_feedback_table" sys_domain="global" view="Default view">19df6e95dba9ab40bdb98edf4b9619a0</sys_ui_section>
+            <sys_updated_by>jeffrey.yauger@accenture.com</sys_updated_by>
+            <sys_updated_on>2018-11-02 18:10:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_freight_v3</element>
+            <position>37</position>
+            <sys_created_by>jeffrey.yauger@accenture.com</sys_created_by>
+            <sys_created_on>2018-11-02 18:10:58</sys_created_on>
+            <sys_id>95dfee95dba9ab40bdb98edf4b9619ca</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_ecosystems_feedback_table" sys_domain="global" view="Default view">19df6e95dba9ab40bdb98edf4b9619a0</sys_ui_section>
+            <sys_updated_by>jeffrey.yauger@accenture.com</sys_updated_by>
+            <sys_updated_on>2018-11-02 18:10:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_payment_posted_date_v3</element>
+            <position>38</position>
+            <sys_created_by>jeffrey.yauger@accenture.com</sys_created_by>
+            <sys_created_on>2018-11-02 18:10:58</sys_created_on>
+            <sys_id>19dfee95dba9ab40bdb98edf4b9619ca</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_ecosystems_feedback_table" sys_domain="global" view="Default view">19df6e95dba9ab40bdb98edf4b9619a0</sys_ui_section>
+            <sys_updated_by>jeffrey.yauger@accenture.com</sys_updated_by>
+            <sys_updated_on>2018-11-02 18:10:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_montly_exchange_rate_v3</element>
+            <position>39</position>
+            <sys_created_by>jeffrey.yauger@accenture.com</sys_created_by>
+            <sys_created_on>2018-11-02 18:10:58</sys_created_on>
+            <sys_id>99dfee95dba9ab40bdb98edf4b9619ca</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_ecosystems_feedback_table" sys_domain="global" view="Default view">19df6e95dba9ab40bdb98edf4b9619a0</sys_ui_section>
+            <sys_updated_by>jeffrey.yauger@accenture.com</sys_updated_by>
+            <sys_updated_on>2018-11-02 18:10:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_au_invoice_number_v3</element>
+            <position>40</position>
+            <sys_created_by>jeffrey.yauger@accenture.com</sys_created_by>
+            <sys_created_on>2018-11-02 18:10:58</sys_created_on>
+            <sys_id>1ddfee95dba9ab40bdb98edf4b9619ca</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_ecosystems_feedback_table" sys_domain="global" view="Default view">19df6e95dba9ab40bdb98edf4b9619a0</sys_ui_section>
+            <sys_updated_by>jeffrey.yauger@accenture.com</sys_updated_by>
+            <sys_updated_on>2018-11-02 18:10:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_total_list_v3</element>
+            <position>41</position>
+            <sys_created_by>jeffrey.yauger@accenture.com</sys_created_by>
+            <sys_created_on>2018-11-02 18:10:58</sys_created_on>
+            <sys_id>9ddfee95dba9ab40bdb98edf4b9619ca</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_ecosystems_feedback_table" sys_domain="global" view="Default view">19df6e95dba9ab40bdb98edf4b9619a0</sys_ui_section>
+            <sys_updated_by>jeffrey.yauger@accenture.com</sys_updated_by>
+            <sys_updated_on>2018-11-02 18:10:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_proforma_v3</element>
+            <position>42</position>
+            <sys_created_by>jeffrey.yauger@accenture.com</sys_created_by>
+            <sys_created_on>2018-11-02 18:10:58</sys_created_on>
+            <sys_id>11dfee95dba9ab40bdb98edf4b9619cb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_ecosystems_feedback_table" sys_domain="global" view="Default view">19df6e95dba9ab40bdb98edf4b9619a0</sys_ui_section>
+            <sys_updated_by>jeffrey.yauger@accenture.com</sys_updated_by>
+            <sys_updated_on>2018-11-02 18:10:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_total_invoice_amount_v3</element>
+            <position>43</position>
+            <sys_created_by>jeffrey.yauger@accenture.com</sys_created_by>
+            <sys_created_on>2018-11-02 18:10:58</sys_created_on>
+            <sys_id>91dfee95dba9ab40bdb98edf4b9619cb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_ecosystems_feedback_table" sys_domain="global" view="Default view">19df6e95dba9ab40bdb98edf4b9619a0</sys_ui_section>
+            <sys_updated_by>jeffrey.yauger@accenture.com</sys_updated_by>
+            <sys_updated_on>2018-11-02 18:10:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_sent_to_client_v3</element>
+            <position>44</position>
+            <sys_created_by>jeffrey.yauger@accenture.com</sys_created_by>
+            <sys_created_on>2018-11-02 18:10:58</sys_created_on>
+            <sys_id>15dfee95dba9ab40bdb98edf4b9619cb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_ecosystems_feedback_table" sys_domain="global" view="Default view">19df6e95dba9ab40bdb98edf4b9619a0</sys_ui_section>
+            <sys_updated_by>jeffrey.yauger@accenture.com</sys_updated_by>
+            <sys_updated_on>2018-11-02 18:10:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_proforma_acceptance_v3</element>
+            <position>45</position>
+            <sys_created_by>jeffrey.yauger@accenture.com</sys_created_by>
+            <sys_created_on>2018-11-02 18:10:58</sys_created_on>
+            <sys_id>95dfee95dba9ab40bdb98edf4b9619cb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_ecosystems_feedback_table" sys_domain="global" view="Default view">19df6e95dba9ab40bdb98edf4b9619a0</sys_ui_section>
+            <sys_updated_by>jeffrey.yauger@accenture.com</sys_updated_by>
+            <sys_updated_on>2018-11-02 18:10:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_invoice_date_v3</element>
+            <position>46</position>
+            <sys_created_by>jeffrey.yauger@accenture.com</sys_created_by>
+            <sys_created_on>2018-11-02 18:10:58</sys_created_on>
+            <sys_id>19dfee95dba9ab40bdb98edf4b9619cb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_ecosystems_feedback_table" sys_domain="global" view="Default view">19df6e95dba9ab40bdb98edf4b9619a0</sys_ui_section>
+            <sys_updated_by>jeffrey.yauger@accenture.com</sys_updated_by>
+            <sys_updated_on>2018-11-02 18:10:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_blind_discount_finance_fee_v3</element>
+            <position>47</position>
+            <sys_created_by>jeffrey.yauger@accenture.com</sys_created_by>
+            <sys_created_on>2018-11-02 18:10:58</sys_created_on>
+            <sys_id>99dfee95dba9ab40bdb98edf4b9619cb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_ecosystems_feedback_table" sys_domain="global" view="Default view">19df6e95dba9ab40bdb98edf4b9619a0</sys_ui_section>
+            <sys_updated_by>jeffrey.yauger@accenture.com</sys_updated_by>
+            <sys_updated_on>2018-11-02 18:10:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_rebate_v3</element>
+            <position>48</position>
+            <sys_created_by>jeffrey.yauger@accenture.com</sys_created_by>
+            <sys_created_on>2018-11-02 18:10:58</sys_created_on>
+            <sys_id>1ddfee95dba9ab40bdb98edf4b9619cb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_ecosystems_feedback_table" sys_domain="global" view="Default view">19df6e95dba9ab40bdb98edf4b9619a0</sys_ui_section>
+            <sys_updated_by>jeffrey.yauger@accenture.com</sys_updated_by>
+            <sys_updated_on>2018-11-02 18:10:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_c_ss_comments_v3</element>
+            <position>49</position>
+            <sys_created_by>jeffrey.yauger@accenture.com</sys_created_by>
+            <sys_created_on>2018-11-02 18:10:58</sys_created_on>
+            <sys_id>9ddfee95dba9ab40bdb98edf4b9619cb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_ecosystems_feedback_table" sys_domain="global" view="Default view">19df6e95dba9ab40bdb98edf4b9619a0</sys_ui_section>
+            <sys_updated_by>jeffrey.yauger@accenture.com</sys_updated_by>
+            <sys_updated_on>2018-11-02 18:10:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_rebate_posting_date_v3</element>
+            <position>50</position>
+            <sys_created_by>jeffrey.yauger@accenture.com</sys_created_by>
+            <sys_created_on>2018-11-02 18:10:58</sys_created_on>
+            <sys_id>11dfee95dba9ab40bdb98edf4b9619cc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_ecosystems_feedback_table" sys_domain="global" view="Default view">19df6e95dba9ab40bdb98edf4b9619a0</sys_ui_section>
+            <sys_updated_by>jeffrey.yauger@accenture.com</sys_updated_by>
+            <sys_updated_on>2018-11-02 18:10:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_gross_margin_local_v3</element>
+            <position>51</position>
+            <sys_created_by>jeffrey.yauger@accenture.com</sys_created_by>
+            <sys_created_on>2018-11-02 18:10:58</sys_created_on>
+            <sys_id>91dfee95dba9ab40bdb98edf4b9619cc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_ecosystems_feedback_table" sys_domain="global" view="Default view">19df6e95dba9ab40bdb98edf4b9619a0</sys_ui_section>
+            <sys_updated_by>jeffrey.yauger@accenture.com</sys_updated_by>
+            <sys_updated_on>2018-11-02 18:10:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_net_margin_local_v3</element>
+            <position>52</position>
+            <sys_created_by>jeffrey.yauger@accenture.com</sys_created_by>
+            <sys_created_on>2018-11-02 18:10:58</sys_created_on>
+            <sys_id>15dfee95dba9ab40bdb98edf4b9619cc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_ecosystems_feedback_table" sys_domain="global" view="Default view">19df6e95dba9ab40bdb98edf4b9619a0</sys_ui_section>
+            <sys_updated_by>jeffrey.yauger@accenture.com</sys_updated_by>
+            <sys_updated_on>2018-11-02 18:10:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_revenue_recognition_notes_v3</element>
+            <position>53</position>
+            <sys_created_by>jeffrey.yauger@accenture.com</sys_created_by>
+            <sys_created_on>2018-11-02 18:10:58</sys_created_on>
+            <sys_id>95dfee95dba9ab40bdb98edf4b9619cc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_ecosystems_feedback_table" sys_domain="global" view="Default view">19df6e95dba9ab40bdb98edf4b9619a0</sys_ui_section>
+            <sys_updated_by>jeffrey.yauger@accenture.com</sys_updated_by>
+            <sys_updated_on>2018-11-02 18:10:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_solution_architect_v3</element>
+            <position>54</position>
+            <sys_created_by>jeffrey.yauger@accenture.com</sys_created_by>
+            <sys_created_on>2018-11-02 18:10:58</sys_created_on>
+            <sys_id>19dfee95dba9ab40bdb98edf4b9619cc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_ecosystems_feedback_table" sys_domain="global" view="Default view">19df6e95dba9ab40bdb98edf4b9619a0</sys_ui_section>
+            <sys_updated_by>jeffrey.yauger@accenture.com</sys_updated_by>
+            <sys_updated_on>2018-11-02 18:10:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_win_v3</element>
+            <position>55</position>
+            <sys_created_by>jeffrey.yauger@accenture.com</sys_created_by>
+            <sys_created_on>2018-11-02 18:10:58</sys_created_on>
+            <sys_id>99dfee95dba9ab40bdb98edf4b9619cc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_ecosystems_feedback_table" sys_domain="global" view="Default view">19df6e95dba9ab40bdb98edf4b9619a0</sys_ui_section>
+            <sys_updated_by>jeffrey.yauger@accenture.com</sys_updated_by>
+            <sys_updated_on>2018-11-02 18:10:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_estimated_close_date_v3</element>
+            <position>56</position>
+            <sys_created_by>jeffrey.yauger@accenture.com</sys_created_by>
+            <sys_created_on>2018-11-02 18:10:58</sys_created_on>
+            <sys_id>1ddfee95dba9ab40bdb98edf4b9619cc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_ecosystems_feedback_table" sys_domain="global" view="Default view">19df6e95dba9ab40bdb98edf4b9619a0</sys_ui_section>
+            <sys_updated_by>jeffrey.yauger@accenture.com</sys_updated_by>
+            <sys_updated_on>2018-11-02 18:10:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_project_manager_v3</element>
+            <position>57</position>
+            <sys_created_by>jeffrey.yauger@accenture.com</sys_created_by>
+            <sys_created_on>2018-11-02 18:10:58</sys_created_on>
+            <sys_id>9ddfee95dba9ab40bdb98edf4b9619cc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_ecosystems_feedback_table" sys_domain="global" view="Default view">19df6e95dba9ab40bdb98edf4b9619a0</sys_ui_section>
+            <sys_updated_by>jeffrey.yauger@accenture.com</sys_updated_by>
+            <sys_updated_on>2018-11-02 18:10:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_client_project_manager_v3</element>
+            <position>58</position>
+            <sys_created_by>jeffrey.yauger@accenture.com</sys_created_by>
+            <sys_created_on>2018-11-02 18:10:58</sys_created_on>
+            <sys_id>11dfee95dba9ab40bdb98edf4b9619cd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_ecosystems_feedback_table" sys_domain="global" view="Default view">19df6e95dba9ab40bdb98edf4b9619a0</sys_ui_section>
+            <sys_updated_by>jeffrey.yauger@accenture.com</sys_updated_by>
+            <sys_updated_on>2018-11-02 18:10:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_payment_method_v3</element>
+            <position>59</position>
+            <sys_created_by>jeffrey.yauger@accenture.com</sys_created_by>
+            <sys_created_on>2018-11-02 18:10:58</sys_created_on>
+            <sys_id>91dfee95dba9ab40bdb98edf4b9619cd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_ecosystems_feedback_table" sys_domain="global" view="Default view">19df6e95dba9ab40bdb98edf4b9619a0</sys_ui_section>
+            <sys_updated_by>jeffrey.yauger@accenture.com</sys_updated_by>
+            <sys_updated_on>2018-11-02 18:10:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_payment_due_date_v3</element>
+            <position>60</position>
+            <sys_created_by>jeffrey.yauger@accenture.com</sys_created_by>
+            <sys_created_on>2018-11-02 18:10:58</sys_created_on>
+            <sys_id>15dfee95dba9ab40bdb98edf4b9619cd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_ecosystems_feedback_table" sys_domain="global" view="Default view">19df6e95dba9ab40bdb98edf4b9619a0</sys_ui_section>
+            <sys_updated_by>jeffrey.yauger@accenture.com</sys_updated_by>
+            <sys_updated_on>2018-11-02 18:10:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_wbs_element_v3</element>
+            <position>61</position>
+            <sys_created_by>jeffrey.yauger@accenture.com</sys_created_by>
+            <sys_created_on>2018-11-02 18:10:58</sys_created_on>
+            <sys_id>95dfee95dba9ab40bdb98edf4b9619cd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_ecosystems_feedback_table" sys_domain="global" view="Default view">19df6e95dba9ab40bdb98edf4b9619a0</sys_ui_section>
+            <sys_updated_by>jeffrey.yauger@accenture.com</sys_updated_by>
+            <sys_updated_on>2018-11-02 18:10:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_billing_company_v3</element>
+            <position>62</position>
+            <sys_created_by>jeffrey.yauger@accenture.com</sys_created_by>
+            <sys_created_on>2018-11-02 18:10:58</sys_created_on>
+            <sys_id>19dfee95dba9ab40bdb98edf4b9619cd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_ecosystems_feedback_table" sys_domain="global" view="Default view">19df6e95dba9ab40bdb98edf4b9619a0</sys_ui_section>
+            <sys_updated_by>jeffrey.yauger@accenture.com</sys_updated_by>
+            <sys_updated_on>2018-11-02 18:10:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_payment_terms_v3</element>
+            <position>63</position>
+            <sys_created_by>jeffrey.yauger@accenture.com</sys_created_by>
+            <sys_created_on>2018-11-02 18:10:58</sys_created_on>
+            <sys_id>99dfee95dba9ab40bdb98edf4b9619cd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_ecosystems_feedback_table" sys_domain="global" view="Default view">19df6e95dba9ab40bdb98edf4b9619a0</sys_ui_section>
+            <sys_updated_by>jeffrey.yauger@accenture.com</sys_updated_by>
+            <sys_updated_on>2018-11-02 18:10:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_sa_group_v3</element>
+            <position>64</position>
+            <sys_created_by>jeffrey.yauger@accenture.com</sys_created_by>
+            <sys_created_on>2018-11-02 18:10:58</sys_created_on>
+            <sys_id>1ddfee95dba9ab40bdb98edf4b9619cd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_ecosystems_feedback_table" sys_domain="global" view="Default view">19df6e95dba9ab40bdb98edf4b9619a0</sys_ui_section>
+            <sys_updated_by>jeffrey.yauger@accenture.com</sys_updated_by>
+            <sys_updated_on>2018-11-02 18:10:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_include_in_forecast_v3</element>
+            <position>65</position>
+            <sys_created_by>jeffrey.yauger@accenture.com</sys_created_by>
+            <sys_created_on>2018-11-02 18:10:58</sys_created_on>
+            <sys_id>9ddfee95dba9ab40bdb98edf4b9619cd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_ecosystems_feedback_table" sys_domain="global" view="Default view">19df6e95dba9ab40bdb98edf4b9619a0</sys_ui_section>
+            <sys_updated_by>jeffrey.yauger@accenture.com</sys_updated_by>
+            <sys_updated_on>2018-11-02 18:10:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_client_currency_v3</element>
+            <position>66</position>
+            <sys_created_by>jeffrey.yauger@accenture.com</sys_created_by>
+            <sys_created_on>2018-11-02 18:10:58</sys_created_on>
+            <sys_id>11dfee95dba9ab40bdb98edf4b9619ce</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_ecosystems_feedback_table" sys_domain="global" view="Default view">19df6e95dba9ab40bdb98edf4b9619a0</sys_ui_section>
+            <sys_updated_by>jeffrey.yauger@accenture.com</sys_updated_by>
+            <sys_updated_on>2018-11-02 18:10:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_partial_delivery_date_v3</element>
+            <position>67</position>
+            <sys_created_by>jeffrey.yauger@accenture.com</sys_created_by>
+            <sys_created_on>2018-11-02 18:10:58</sys_created_on>
+            <sys_id>91dfee95dba9ab40bdb98edf4b9619ce</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_ecosystems_feedback_table" sys_domain="global" view="Default view">19df6e95dba9ab40bdb98edf4b9619a0</sys_ui_section>
+            <sys_updated_by>jeffrey.yauger@accenture.com</sys_updated_by>
+            <sys_updated_on>2018-11-02 18:10:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_delivery_date_v3</element>
+            <position>68</position>
+            <sys_created_by>jeffrey.yauger@accenture.com</sys_created_by>
+            <sys_created_on>2018-11-02 18:10:58</sys_created_on>
+            <sys_id>15dfee95dba9ab40bdb98edf4b9619ce</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_ecosystems_feedback_table" sys_domain="global" view="Default view">19df6e95dba9ab40bdb98edf4b9619a0</sys_ui_section>
+            <sys_updated_by>jeffrey.yauger@accenture.com</sys_updated_by>
+            <sys_updated_on>2018-11-02 18:10:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_task_work_notes</element>
+            <position>69</position>
+            <sys_created_by>jeffrey.yauger@accenture.com</sys_created_by>
+            <sys_created_on>2018-11-02 18:10:58</sys_created_on>
+            <sys_id>95dfee95dba9ab40bdb98edf4b9619ce</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_ecosystems_feedback_table" sys_domain="global" view="Default view">19df6e95dba9ab40bdb98edf4b9619a0</sys_ui_section>
+            <sys_updated_by>jeffrey.yauger@accenture.com</sys_updated_by>
+            <sys_updated_on>2018-11-02 18:10:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_task_activities</element>
+            <position>70</position>
+            <sys_created_by>jeffrey.yauger@accenture.com</sys_created_by>
+            <sys_created_on>2018-11-02 18:10:58</sys_created_on>
+            <sys_id>19dfee95dba9ab40bdb98edf4b9619ce</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_ecosystems_feedback_table" sys_domain="global" view="Default view">19df6e95dba9ab40bdb98edf4b9619a0</sys_ui_section>
+            <sys_updated_by>jeffrey.yauger@accenture.com</sys_updated_by>
+            <sys_updated_on>2018-11-02 18:10:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_ignore_test_2</element>
+            <position>71</position>
+            <sys_created_by>jeffrey.yauger@accenture.com</sys_created_by>
+            <sys_created_on>2018-11-02 18:10:58</sys_created_on>
+            <sys_id>99dfee95dba9ab40bdb98edf4b9619ce</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_ecosystems_feedback_table" sys_domain="global" view="Default view">19df6e95dba9ab40bdb98edf4b9619a0</sys_ui_section>
+            <sys_updated_by>jeffrey.yauger@accenture.com</sys_updated_by>
+            <sys_updated_on>2018-11-02 18:10:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_attachments_exist</element>
+            <position>72</position>
+            <sys_created_by>jeffrey.yauger@accenture.com</sys_created_by>
+            <sys_created_on>2018-11-02 18:10:58</sys_created_on>
+            <sys_id>1ddfee95dba9ab40bdb98edf4b9619ce</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_ecosystems_feedback_table" sys_domain="global" view="Default view">19df6e95dba9ab40bdb98edf4b9619a0</sys_ui_section>
+            <sys_updated_by>jeffrey.yauger@accenture.com</sys_updated_by>
+            <sys_updated_on>2018-11-02 18:10:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_attachment_counter</element>
+            <position>73</position>
+            <sys_created_by>jeffrey.yauger@accenture.com</sys_created_by>
+            <sys_created_on>2018-11-02 18:10:58</sys_created_on>
+            <sys_id>9ddfee95dba9ab40bdb98edf4b9619ce</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_ecosystems_feedback_table" sys_domain="global" view="Default view">19df6e95dba9ab40bdb98edf4b9619a0</sys_ui_section>
+            <sys_updated_by>jeffrey.yauger@accenture.com</sys_updated_by>
+            <sys_updated_on>2018-11-02 18:10:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_finance_team</element>
+            <position>74</position>
+            <sys_created_by>jeffrey.yauger@accenture.com</sys_created_by>
+            <sys_created_on>2018-11-02 18:10:58</sys_created_on>
+            <sys_id>11dfee95dba9ab40bdb98edf4b9619cf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_ecosystems_feedback_table" sys_domain="global" view="Default view">19df6e95dba9ab40bdb98edf4b9619a0</sys_ui_section>
+            <sys_updated_by>jeffrey.yauger@accenture.com</sys_updated_by>
+            <sys_updated_on>2018-11-02 18:10:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_quote_request_country</element>
+            <position>75</position>
+            <sys_created_by>jeffrey.yauger@accenture.com</sys_created_by>
+            <sys_created_on>2018-11-02 18:10:58</sys_created_on>
+            <sys_id>91dfee95dba9ab40bdb98edf4b9619cf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="u_ecosystems_feedback_table" sys_domain="global" view="Default view">19df6e95dba9ab40bdb98edf4b9619a0</sys_ui_section>
+            <sys_updated_by>jeffrey.yauger@accenture.com</sys_updated_by>
+            <sys_updated_on>2018-11-02 18:10:58</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>u_ecosystems_feedback_table</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>jeffrey.yauger@accenture.com</sys_created_by>
+            <sys_created_on>2018-11-02 18:10:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>19df6e95dba9ab40bdb98edf4b9619a0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_ecosystems_feedback_table</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Ecosystems Feedback" source="0a78afc8db69e340db461cd74b96199f">0a78afc8db69e340db461cd74b96199f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Ecosystems Feedback">0a78afc8db69e340db461cd74b96199f</sys_scope>
+            <sys_update_name>sys_ui_section_19df6e95dba9ab40bdb98edf4b9619a0</sys_update_name>
+            <sys_updated_by>jeffrey.yauger@accenture.com</sys_updated_by>
+            <sys_updated_on>2018-11-02 18:10:58</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
