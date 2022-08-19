@@ -1,10 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app">
     <sys_app action="INSERT_OR_UPDATE">
         <active>true</active>
+        <can_edit_in_studio>false</can_edit_in_studio>
         <enforce_license>log</enforce_license>
+        <guided_setup_guid/>
+        <hide_on_ui>false</hide_on_ui>
+        <installed_as_dependency>false</installed_as_dependency>
         <js_level>helsinki_es5</js_level>
         <licensable>true</licensable>
+        <license/>
         <license_category>none</license_category>
+        <license_definition/>
         <license_model>fulfiller</license_model>
         <logo/>
         <menu display_value="Ecosystems Feedback">4a78a30cdb69e340db461cd74b96196b</menu>
@@ -28,6 +34,7 @@
         <sys_updated_on>2019-02-15 23:03:21</sys_updated_on>
         <template/>
         <trackable>true</trackable>
+        <uninstall_blocked>false</uninstall_blocked>
         <user_role display_value="ecosystems_feedback_user" name="ecosystems_feedback_user">8e78a30cdb69e340db461cd74b96196e</user_role>
         <vendor/>
         <vendor_prefix/>
@@ -38,25 +45,29 @@
         <chunk_size_bytes>734003</chunk_size_bytes>
         <compressed>true</compressed>
         <content_type>image/png</content_type>
+        <encryption_context/>
         <file_name>logo</file_name>
+        <hash/>
         <image_height>116</image_height>
         <image_width>116</image_width>
         <size_bytes>2563</size_bytes>
         <size_compressed>2586</size_compressed>
-        <state/>
+        <state>available</state>
         <sys_created_by>andrew.irwin@accenture.com</sys_created_by>
         <sys_created_on>2018-10-30 02:03:58</sys_created_on>
         <sys_domain>774190f01f1310005a3637b8ec8b70ef</sys_domain>
         <sys_domain_path>!!!/</sys_domain_path>
         <sys_id>dbb57b84dbe9e340db461cd74b9619a0</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_updated_by>andrew.irwin@accenture.com</sys_updated_by>
-        <sys_updated_on>2018-10-30 02:03:58</sys_updated_on>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>guest</sys_updated_by>
+        <sys_updated_on>2019-05-21 19:06:00</sys_updated_on>
         <table_name>ZZ_YYsys_app</table_name>
         <table_sys_id>0a78afc8db69e340db461cd74b96199f</table_sys_id>
+        <u_final_version>false</u_final_version>
         <u_internal_document_type/>
         <u_location>Confidential</u_location>
         <u_quote_lifecycle/>
+        <u_visibility/>
     </sys_attachment>
     <sys_attachment_doc action="INSERT_OR_UPDATE">
         <data>H4sIAAAAAAAAAA==</data>

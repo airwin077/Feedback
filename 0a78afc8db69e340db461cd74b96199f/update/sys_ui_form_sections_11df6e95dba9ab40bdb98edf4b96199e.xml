@@ -14,6 +14,48 @@
             <sys_updated_by>jeffrey.yauger@accenture.com</sys_updated_by>
             <sys_updated_on>2018-11-02 18:10:58</sys_updated_on>
         </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>andrew.irwin@accenture.com</sys_created_by>
+            <sys_created_on>2019-02-16 00:26:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>68c47c1bdb636700ef0683305b961911</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="u_ecosystems_feedback_table" name="u_ecosystems_feedback_table" sys_domain="global" view="Default view">11df6e95dba9ab40bdb98edf4b96199e</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="u_ecosystems_feedback_table" sys_domain="774190f01f1310005a3637b8ec8b70ef" view="Default view">1e2a2b4cdb69e340db461cd74b9619f4</sys_ui_section>
+            <sys_updated_by>andrew.irwin@accenture.com</sys_updated_by>
+            <sys_updated_on>2019-02-16 00:26:39</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>maria.florencia.belo@accenture.com</sys_created_by>
+            <sys_created_on>2019-10-07 17:37:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d30b9c6adbdc8010a9abd3ca4b961941</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="u_ecosystems_feedback_table" name="u_ecosystems_feedback_table" sys_domain="global" view="Default view">11df6e95dba9ab40bdb98edf4b96199e</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="u_ecosystems_feedback_table" sys_domain="global" view="Default view">19df6e95dba9ab40bdb98edf4b9619a0</sys_ui_section>
+            <sys_updated_by>maria.florencia.belo@accenture.com</sys_updated_by>
+            <sys_updated_on>2019-10-07 17:37:10</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>maria.florencia.belo@accenture.com</sys_created_by>
+            <sys_created_on>2019-10-07 17:37:10</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5b0b9c6adbdc8010a9abd3ca4b96194e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="u_ecosystems_feedback_table" name="u_ecosystems_feedback_table" sys_domain="global" view="Default view">11df6e95dba9ab40bdb98edf4b96199e</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="u_ecosystems_feedback_table" sys_domain="774190f01f1310005a3637b8ec8b70ef" view="Default view">1e2a2b4cdb69e340db461cd74b9619f4</sys_ui_section>
+            <sys_updated_by>maria.florencia.belo@accenture.com</sys_updated_by>
+            <sys_updated_on>2019-10-07 17:37:10</sys_updated_on>
+        </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>u_ecosystems_feedback_table</name>
             <roles/>

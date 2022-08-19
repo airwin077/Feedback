@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="live_feed=true" extends="task" label="Ecosystems Feedback Table" max_length="40" name="u_ecosystems_feedback_table" sizeclass="42" text_index="true" type="collection">
+        <element hint="Please provide as many details as possible related to your feedback..." label="Feedback Details" mandatory="true" max_length="4000" name="u_feedback_details" spell_check="true" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Feedback Type" mandatory="true" max_length="40" name="u_feedback_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Enhancement" sequence="0" value="0"/>
+                <element inactive="true" inactive_on_update="true" label="Enhancement" sequence="0" value="0"/>
+                <element inactive_on_update="false" label="Enhancement Request" sequence="0" value="4"/>
+                <element inactive_on_update="false" label="Idea" sequence="1" value="3"/>
+                <element inactive_on_update="false" label="New Application Request" sequence="1" value="5"/>
+                <element inactive_on_update="false" label="Suggestion" sequence="1" value="1"/>
+                <element inactive="true" inactive_on_update="true" label="Idea" sequence="2" value="3"/>
+                <element inactive="true" inactive_on_update="true" label="Suggestion" sequence="2" value="1"/>
+                <element inactive="true" inactive_on_update="true" label="Suggestion" sequence="3" value="6"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Related Application" mandatory="true" max_length="32" name="u_related_application" reference="cmdb_model" reference_qual="u_ehub_product=true^EQ" reference_qual_condition="u_ehub_product=true^EQ" type="reference"/>
+    </element>
+</database>

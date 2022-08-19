@@ -49,7 +49,7 @@
         <omit_watermark>false</omit_watermark>
         <order>100</order>
         <push_message_only>false</push_message_only>
-        <recipient_fields>sys_created_by,u_related_application.owner</recipient_fields>
+        <recipient_fields>sys_created_by</recipient_fields>
         <recipient_groups/>
         <recipient_users>9d981321dbe6c300a9abd3ca4b9619ca,cb71772a0f8e4344caaf91dbe1050e7a,268d3896db93d3c07fee1cd74b9619cc</recipient_users>
         <reply_to/>
@@ -64,15 +64,15 @@
         <sys_domain>774190f01f1310005a3637b8ec8b70ef</sys_domain>
         <sys_domain_path>!!!/</sys_domain_path>
         <sys_id>5535eadddb69ab40bdb98edf4b961966</sys_id>
-        <sys_mod_count>4</sys_mod_count>
+        <sys_mod_count>5</sys_mod_count>
         <sys_name>Note to User</sys_name>
         <sys_overrides display_value="">7a1f0695dbe9ab40db461cd74b9619b5</sys_overrides>
         <sys_package display_value="Ecosystems Feedback" source="0a78afc8db69e340db461cd74b96199f">0a78afc8db69e340db461cd74b96199f</sys_package>
         <sys_policy/>
         <sys_scope display_value="Ecosystems Feedback">0a78afc8db69e340db461cd74b96199f</sys_scope>
         <sys_update_name>sysevent_email_action_5535eadddb69ab40bdb98edf4b961966</sys_update_name>
-        <sys_updated_by>jeffrey.yauger@accenture.com</sys_updated_by>
-        <sys_updated_on>2018-11-02 18:09:02</sys_updated_on>
+        <sys_updated_by>andrew.irwin@accenture.com</sys_updated_by>
+        <sys_updated_on>2019-04-11 18:15:12</sys_updated_on>
         <sys_version>2</sys_version>
         <template display_value="Unsubscribe and Preferences">7ed0481f3b0b2200c869c2c703efc487</template>
         <type>email</type>

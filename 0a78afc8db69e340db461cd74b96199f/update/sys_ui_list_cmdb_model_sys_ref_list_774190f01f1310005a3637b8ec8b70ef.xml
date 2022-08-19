@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="774190f01f1310005a3637b8ec8b70ef" table="cmdb_model" version="2" view="sys_ref_list">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>name</element>
+            <list_id display_value="cmdb_model" element="NULL" name="cmdb_model" parent="core_company" relationship="NULL" sys_domain="c6a055f5dbb08300f29ef3671d96193a" view="6d8d1063db1203007fee1cd74b96196f">1a3e89cddb8aa300ef0683305b9619ea</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>eligio.f.ferrillo@accenture.com</sys_created_by>
+            <sys_created_on>2018-11-26 12:57:25</sys_created_on>
+            <sys_id>d63e89cddb8aa300ef0683305b9619eb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>eligio.f.ferrillo@accenture.com</sys_updated_by>
+            <sys_updated_on>2018-11-26 12:57:25</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>acquisition_method</element>
+            <list_id display_value="cmdb_model" element="NULL" name="cmdb_model" parent="core_company" relationship="NULL" sys_domain="c6a055f5dbb08300f29ef3671d96193a" view="6d8d1063db1203007fee1cd74b96196f">1a3e89cddb8aa300ef0683305b9619ea</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>eligio.f.ferrillo@accenture.com</sys_created_by>
+            <sys_created_on>2018-11-26 12:57:25</sys_created_on>
+            <sys_id>523e89cddb8aa300ef0683305b9619ec</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>eligio.f.ferrillo@accenture.com</sys_updated_by>
+            <sys_updated_on>2018-11-26 12:57:25</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>asset_tracking_strategy</element>
+            <list_id display_value="cmdb_model" element="NULL" name="cmdb_model" parent="core_company" relationship="NULL" sys_domain="c6a055f5dbb08300f29ef3671d96193a" view="6d8d1063db1203007fee1cd74b96196f">1a3e89cddb8aa300ef0683305b9619ea</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>eligio.f.ferrillo@accenture.com</sys_created_by>
+            <sys_created_on>2018-11-26 12:57:25</sys_created_on>
+            <sys_id>d23e89cddb8aa300ef0683305b9619ec</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>eligio.f.ferrillo@accenture.com</sys_updated_by>
+            <sys_updated_on>2018-11-26 12:57:25</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>barcode</element>
+            <list_id display_value="cmdb_model" element="NULL" name="cmdb_model" parent="core_company" relationship="NULL" sys_domain="c6a055f5dbb08300f29ef3671d96193a" view="6d8d1063db1203007fee1cd74b96196f">1a3e89cddb8aa300ef0683305b9619ea</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>eligio.f.ferrillo@accenture.com</sys_created_by>
+            <sys_created_on>2018-11-26 12:57:25</sys_created_on>
+            <sys_id>563e89cddb8aa300ef0683305b9619ec</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>eligio.f.ferrillo@accenture.com</sys_updated_by>
+            <sys_updated_on>2018-11-26 12:57:25</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>bundle</element>
+            <list_id display_value="cmdb_model" element="NULL" name="cmdb_model" parent="core_company" relationship="NULL" sys_domain="c6a055f5dbb08300f29ef3671d96193a" view="6d8d1063db1203007fee1cd74b96196f">1a3e89cddb8aa300ef0683305b9619ea</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>eligio.f.ferrillo@accenture.com</sys_created_by>
+            <sys_created_on>2018-11-26 12:57:25</sys_created_on>
+            <sys_id>d63e89cddb8aa300ef0683305b9619ec</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>eligio.f.ferrillo@accenture.com</sys_updated_by>
+            <sys_updated_on>2018-11-26 12:57:25</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>certified</element>
+            <list_id display_value="cmdb_model" element="NULL" name="cmdb_model" parent="core_company" relationship="NULL" sys_domain="c6a055f5dbb08300f29ef3671d96193a" view="6d8d1063db1203007fee1cd74b96196f">1a3e89cddb8aa300ef0683305b9619ea</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>eligio.f.ferrillo@accenture.com</sys_created_by>
+            <sys_created_on>2018-11-26 12:57:25</sys_created_on>
+            <sys_id>5a3e89cddb8aa300ef0683305b9619ec</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>eligio.f.ferrillo@accenture.com</sys_updated_by>
+            <sys_updated_on>2018-11-26 12:57:25</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>cmdb_ci_class</element>
+            <list_id display_value="cmdb_model" element="NULL" name="cmdb_model" parent="core_company" relationship="NULL" sys_domain="c6a055f5dbb08300f29ef3671d96193a" view="6d8d1063db1203007fee1cd74b96196f">1a3e89cddb8aa300ef0683305b9619ea</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>eligio.f.ferrillo@accenture.com</sys_created_by>
+            <sys_created_on>2018-11-26 12:57:25</sys_created_on>
+            <sys_id>da3e89cddb8aa300ef0683305b9619ec</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>eligio.f.ferrillo@accenture.com</sys_updated_by>
+            <sys_updated_on>2018-11-26 12:57:25</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>cmdb_model_category</element>
+            <list_id display_value="cmdb_model" element="NULL" name="cmdb_model" parent="core_company" relationship="NULL" sys_domain="c6a055f5dbb08300f29ef3671d96193a" view="6d8d1063db1203007fee1cd74b96196f">1a3e89cddb8aa300ef0683305b9619ea</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>eligio.f.ferrillo@accenture.com</sys_created_by>
+            <sys_created_on>2018-11-26 12:57:25</sys_created_on>
+            <sys_id>5e3e89cddb8aa300ef0683305b9619ec</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>eligio.f.ferrillo@accenture.com</sys_updated_by>
+            <sys_updated_on>2018-11-26 12:57:25</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>comments</element>
+            <list_id display_value="cmdb_model" element="NULL" name="cmdb_model" parent="core_company" relationship="NULL" sys_domain="c6a055f5dbb08300f29ef3671d96193a" view="6d8d1063db1203007fee1cd74b96196f">1a3e89cddb8aa300ef0683305b9619ea</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>8</position>
+            <sum>false</sum>
+            <sys_created_by>eligio.f.ferrillo@accenture.com</sys_created_by>
+            <sys_created_on>2018-11-26 12:57:25</sys_created_on>
+            <sys_id>de3e89cddb8aa300ef0683305b9619ec</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>eligio.f.ferrillo@accenture.com</sys_updated_by>
+            <sys_updated_on>2018-11-26 12:57:25</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>company</element>
+            <list_id display_value="cmdb_model" element="NULL" name="cmdb_model" parent="core_company" relationship="NULL" sys_domain="c6a055f5dbb08300f29ef3671d96193a" view="6d8d1063db1203007fee1cd74b96196f">1a3e89cddb8aa300ef0683305b9619ea</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>9</position>
+            <sum>false</sum>
+            <sys_created_by>eligio.f.ferrillo@accenture.com</sys_created_by>
+            <sys_created_on>2018-11-26 12:57:25</sys_created_on>
+            <sys_id>523e89cddb8aa300ef0683305b9619ed</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>eligio.f.ferrillo@accenture.com</sys_updated_by>
+            <sys_updated_on>2018-11-26 12:57:25</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>cmdb_model</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>andrew.irwin@accenture.com</sys_created_by>
+            <sys_created_on>2022-06-22 02:13:20</sys_created_on>
+            <sys_domain>774190f01f1310005a3637b8ec8b70ef</sys_domain>
+            <sys_domain_path>!!!/</sys_domain_path>
+            <sys_id>29f3566087d091103e7987fc8bbb35d1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>cmdb_model</sys_name>
+            <sys_package display_value="Ecosystems Feedback" source="0a78afc8db69e340db461cd74b96199f">0a78afc8db69e340db461cd74b96199f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Ecosystems Feedback">0a78afc8db69e340db461cd74b96199f</sys_scope>
+            <sys_update_name>sys_ui_list_cmdb_model_sys_ref_list_774190f01f1310005a3637b8ec8b70ef</sys_update_name>
+            <sys_updated_by>andrew.irwin@accenture.com</sys_updated_by>
+            <sys_updated_on>2022-06-22 02:13:20</sys_updated_on>
+            <sys_user/>
+            <view display_value="Reference List" name="sys_ref_list">6d8d1063db1203007fee1cd74b96196f</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>
